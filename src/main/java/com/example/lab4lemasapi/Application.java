@@ -1,4 +1,4 @@
-package com.example.lab3client;
+package com.example.lab4lemasapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
